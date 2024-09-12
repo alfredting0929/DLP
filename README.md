@@ -1,4 +1,4 @@
-# Deep-learning
+# Deep-Learning-Practice
 NYCU DLP 2024 spring Labs
 
 Lab1: Back-propagation
